@@ -127,3 +127,12 @@ Both controls are necessary for the demonstrated scenarios, but neither is suffi
 - `config/authoritative-policies.json`
 - `src/policy_validator.py`
 - `src/rag_pipeline.py`
+
+## Related Artifacts
+
+- [System architecture](system-architecture.md)
+- [PI-002 threat model](../threat-model/PI-002.md)
+- [Policy validator](../../src/policy_validator.py)
+- [Authoritative policy register](../../config/authoritative-policies.json)
+- [Policy validation tests](../../tests/test_policy_validator.py)
+- [Project README](../../README.md)

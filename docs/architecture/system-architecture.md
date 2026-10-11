@@ -163,10 +163,28 @@ The project does not claim production-grade document authorization, cryptographi
 
 ## 7. Related Artifacts
 
-- docs/threat-model/PI-001.md
-- docs/architecture/ADR-001-document-integrity.md
-- config/document-integrity.json
-- src/retriever.py
-- src/integrity.py
-- src/rag_pipeline.py
-- tests/test_integrity.py
+### Threat Models and Evidence
+- [PI-001 — Unauthorized Document Modification](../threat-model/PI-001.md)
+- [PI-001 — Recorded Attack Evidence](../../evidence/PI-001-result.txt)
+- [PI-002 — Approved Adversarial Document](../threat-model/PI-002.md)
+- [PI-002 — Recorded Attack Evidence](../../evidence/PI-002-result.txt)
+
+### Architecture Decisions
+- [ADR-001 — Document Integrity](ADR-001-document-integrity.md)
+- [ADR-002 — Authoritative Policy Validation](ADR-002-authoritative-policy-validation.md)
+
+### Trusted Configuration and Corpus
+- [Document Integrity Manifest](../../config/document-integrity.json)
+- [Authoritative Policy Register](../../config/authoritative-policies.json)
+- [Synthetic Research Policy](../../corpus/research-policy.txt)
+
+### Implementation and Tests
+- [Document Retriever](../../src/retriever.py)
+- [Document Integrity Verification](../../src/integrity.py)
+- [RAG Pipeline](../../src/rag_pipeline.py)
+- [Policy Validator](../../src/policy_validator.py)
+- [Document Integrity Tests](../../tests/test_integrity.py)
+- [Policy Validation Tests](../../tests/test_policy_validator.py)
+- [PI-002 Isolated Experiment](../../tests/pi002_lab/run_pi002.py)
+
+[Return to project README](../../README.md)
