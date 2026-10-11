@@ -1,0 +1,11 @@
+
+{
+  "schema_version": 1,
+  "authority": "Synthetic Aster Research Institute policy register",
+  "policies": {
+    "ARI-POL-001": {
+      "title": "Research Data Retention Policy",
+      "completed_research_dataset_retention_years": 7
+    }
+  }
+}

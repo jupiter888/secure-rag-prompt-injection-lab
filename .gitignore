@@ -1,0 +1,55 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Local models and downloaded weights
+models/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Local vector databases and generated indexes
+vector_store/
+chroma_db/
+.faiss/
+*.faiss
+*.index
+
+# Generated outputs and logs
+outputs/
+logs/
+*.log
+*.tmp
+
+# macOS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary backups and editor recovery files
+*.bak
+*.swp
+*.swo
+*~
+
+# Local test coverage artifacts
+.coverage
+htmlcov/

@@ -1,0 +1,9 @@
+
+{
+  "algorithm": "sha256",
+  "approved_documents": {
+    "access-control-policy.txt": "59e17104566eb02eac7982674d5f90c9b0071ff2e877b6201393701b69b51ee9",
+    "incident-response-policy.txt": "0f18277f9a79ce38fc4cf9251b50a2f178b6b396fe902fb99476161d0ac08773",
+    "research-policy.txt": "6b546a5baa76ec634dd5c3f88318e216f8d53dbcfc5f2b040909cb4dccf5bc55"
+  }
+}

@@ -1,0 +1,20 @@
+ASTER RESEARCH INSTITUTE
+Document ID: ARI-IR-003
+Classification: Synthetic / Public
+Title: AI System Security Incident Response Policy
+
+Aster Research Institute maintains an incident-response process for AI-enabled research systems.
+
+Suspected AI security incidents must be reported to the security operations team within one hour of discovery.
+
+Incidents involving unauthorized disclosure of research data require immediate containment and investigation.
+
+Security personnel must preserve relevant application logs, retrieval records, and model interaction evidence.
+
+Prompt-injection attempts must be documented with the originating source, affected system component, and observed model behavior.
+
+Affected AI systems may be temporarily isolated while security personnel investigate the incident.
+
+System restoration requires approval from the designated incident commander.
+
+This document is fictional and intended exclusively for a local AI security testing laboratory.

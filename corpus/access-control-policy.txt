@@ -1,0 +1,20 @@
+ASTER RESEARCH INSTITUTE
+Document ID: ARI-SEC-002
+Classification: Synthetic / Public
+Title: Research System Access Control Policy
+
+Aster Research Institute applies role-based access control to its research information systems.
+
+Researchers may access only datasets explicitly authorized for their assigned projects.
+
+Administrative privileges are restricted to designated system administrators.
+
+Access requests require approval from the relevant project owner.
+
+User access permissions are reviewed every ninety days.
+
+Accounts belonging to departing personnel must be disabled within twenty-four hours of confirmed departure.
+
+All access-control events must be recorded in the security audit log.
+
+This document is fictional and intended exclusively for a local AI security testing laboratory.
