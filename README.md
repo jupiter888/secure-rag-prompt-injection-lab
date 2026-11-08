@@ -1,5 +1,7 @@
 # Project 3 — Secure RAG Architecture & Prompt-Injection Threat Modeling
 
+**RAG Security | Indirect Prompt Injection | LLM Security | Document Trust Boundaries | Answer Integrity | Defense-in-Depth | Adversarial Testing**
+
 ## Overview
 
 An offline-first AI security architecture laboratory investigating indirect prompt injection, document trust, and answer integrity in retrieval-augmented generation (RAG) systems.
