@@ -1,5 +1,4 @@
 # Project 3 — Secure RAG Architecture & Prompt-Injection Threat Modeling
-
 **RAG Security | Indirect Prompt Injection | LLM Security | Document Trust Boundaries | Answer Integrity | Defense-in-Depth | Adversarial Testing**
 
 ## Overview
